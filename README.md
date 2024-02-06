@@ -1,1 +1,3 @@
 # WeatherApp
+usage
+searching weather
